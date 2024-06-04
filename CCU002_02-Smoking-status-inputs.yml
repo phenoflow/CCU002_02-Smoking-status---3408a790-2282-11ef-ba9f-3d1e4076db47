@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/extrivial-ccu002_02-smoking-status---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-smoking-status-exheavy---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-smoking-status-exsmoker---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-smoking-status-excigarette---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-smoking-status-exmoderate---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-smoking-status-stopped---primary.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-smoking-status-consumption---primary.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-smoking-status-ceased---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-smoking-status-chain---primary.py
+inputModule11:
+  class: File
+  path: python/unknown-ccu002_02-smoking-status---primary.py
+inputModule12:
+  class: File
+  path: python/light-ccu002_02-smoking-status---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_02-smoking-status-stopping---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_02-smoking-status-tobacco---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_02-smoking-status---primary.py
+inputModule16:
+  class: File
+  path: python/occasional-ccu002_02-smoking-status---primary.py
+inputModule17:
+  class: File
+  path: python/ccu002_02-smoking-status-trying---primary.py
+inputModule18:
+  class: File
+  path: python/ccu002_02-smoking-status-smoker---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
